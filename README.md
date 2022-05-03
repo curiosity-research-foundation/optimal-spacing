@@ -1,4 +1,4 @@
-# optimallearning
+# Optimal Spacing
 Simple algorithm for irregular optimal learning schedules
 
 Use to create a lesson plan across multiple units for optimal spacing of curriculum to maximize gernalization and memorization.
