@@ -1,7 +1,7 @@
 # Optimal Spacing
 Simple algorithm for irregular optimal learning schedules
 
-Use to create a lesson plan across multiple units for optimal spacing of curriculum to maximize gernalization and memorization.
+Use to create a lesson plan across multiple units for optimal spacing of curriculum to maximize generalization and memorization.
 
 Use an adjustable exponential growth in spacing and always includes two lessons for a new unit upon initial introduction.
 
